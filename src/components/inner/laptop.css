@@ -1,0 +1,45 @@
+/* description [12 GB | 6 GB ] */
+.txt-description
+{
+    font-size: "22px"
+}
+
+/* tag price */
+.txt-money
+{
+    font-weight: 700; 
+    font-size: 25px
+}
+
+/* stricking orginal money */
+.txt-orginal-money
+{
+    font-size: 20px; 
+    font-weight: 500
+}
+
+/* 7%off */
+.txt-off-money
+{
+    font-size: 17px; 
+    font-weight:600
+}
+
+/* buy and add to cart button */
+.buy-btn
+{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/* out of stock */
+.content 
+{
+    position: center;
+    bottom: 20px;
+    right:20px;
+    background-color: rgb(236, 2, 2);
+    color: white;
+    padding-left: 50px;
+    padding-right: 5px;
+}

@@ -1,0 +1,27 @@
+.bg-gray
+{
+    background-color: rgb(172, 168, 168);
+}
+
+
+.w-130
+{
+    width: 130%;
+}
+
+
+.txt-green
+{
+    color: rgb(4, 192, 4);
+}
+
+.cw-95
+{
+    width: 95%;
+}
+
+.buy-btn
+{
+    font-size: 16px;
+    font-weight: 700;
+}

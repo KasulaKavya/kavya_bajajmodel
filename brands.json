@@ -1,0 +1,50 @@
+{
+    
+    "brands":
+    [
+        {
+            "title":"Brand",
+            "name1":"Apple",
+            "name2":"LG",
+            "name3":"Samsung",
+            "name4":"Vivo",
+            "name5":"Oppo",
+            "name6":"Redmi",
+            "name7":"Mortolo",
+            "name8":"Oneplus"
+        },
+        {
+            "title":"Color",
+            "name1":"Silver",
+            "name2":"Black",
+            "name3":"Gold",
+            "name4":"Space Grey",
+            "name5":"Auro Glow",
+            "name6":"Red",
+            "name7":"Blue",
+            "name8":"Green",
+            "name9":"White"
+        },
+        {
+            "title":"Screen Type",
+            "name1":"OLED"
+        },
+        {
+            "title":"RAM",
+            "name1":"2 GB",
+            "name2":"4 GB",
+            "name3":"6 GB",
+            "name4":"8 GB",
+            "name5":"10 GB",
+            "name6":"12 GB"
+        },
+        {
+            "title":"Storage",
+            "name1":"32 GB",
+            "name2":"64 GB",
+            "name3":"128 GB",
+            "name4":"256 GB",
+            "name5":"512 GB"
+        }
+    ]
+}

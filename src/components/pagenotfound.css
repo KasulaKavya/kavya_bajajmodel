@@ -1,0 +1,15 @@
+.not-found
+{
+    position:fixed;
+    top:0;
+    width:100vw;
+    height: 100vh;
+    background-color: white;
+    display:flex;
+    
+}
+
+.b
+{
+    margin: 0px 300px 25px 300px;
+}

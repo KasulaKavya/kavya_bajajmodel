@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "mamatha",
+      "email": "mamatha16@gmail.com",
+      "location": "HYD",
+      "course": "FULLSTACK",
+      "phone": 1422142209,
+      "id": 101
+    },
+    {
+      "name": "kavya",
+      "email": "wish@gmail.com",
+      "location": "hyd",
+      "course": "react",
+      "phone": "145286969",
+      "id": 102
+    },
+    {
+      "name": "kavya sri",
+      "email": "kasula@gmail.com",
+      "location": "hyd",
+      "course": "react",
+      "phone": "145287969",
+      "id": 103
+    },
+    {
+      "id": 104,
+      "name": "vara",
+      "email": "vara@gmail.com",
+      "location": "HYD",
+      "course": "JS",
+      "phone": 1409842289
+    },
+    {
+      "id": 105,
+      "name": "sindhuja",
+      "email": "sindhuja@gmail.com",
+      "location": "HYD",
+      "course": "REACT",
+      "phone": 1427862892
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.pgnotfound
+{
+    position:fixed;
+    top:0;
+    width:100%;
+    height: 100px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+/* header bgcolor */
+.bg-l
+{
+    background-color:  rgb(250, 84, 84);
+}
+
+/* header txt */
+.txt-c
+{
+    font-size: 22px;
+    font-weight: 400;
+    color:black;
+}
+
+/* fontawsome icon for navbar */
+.fnt-i
+{
+    color:rgb(223, 201, 201);
+    font-size:30px;
+    font-weight: 300px;
+    padding-top: 8px;
+}
+
+/* vertical line */
+.vl
+{
+    border-left: 1px solid rgb(226, 225, 225);
+    line-height: auto;
+}
+

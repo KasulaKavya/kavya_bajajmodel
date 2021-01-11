@@ -1,0 +1,65 @@
+.bg-body
+{
+    background-color: antiquewhite;
+
+}
+
+.txt-a
+{
+    font-weight:400;
+    font-size: 22px;
+    color:black
+}
+
+
+.bg-c
+{
+    background-color: rgb(250, 84, 84);
+}
+
+.txt-c
+{
+    color:rgb(252, 134, 56);
+    font-weight:500;
+    font-size: 18px;
+}
+
+.bg-gray
+{
+    background-color: rgb(172, 168, 168);
+}
+
+
+.w-130
+{
+    width: 130%;
+}
+
+.vl
+{
+    border-left: 1px solid rgb(226, 225, 225);
+    height:aut
+}
+
+.txt-green
+{
+    color: rgb(4, 192, 4);
+}
+
+.cw-95
+{
+    width: 95%;
+}
+
+.content 
+{
+    position: center;
+    bottom: 20px;
+    right:20px;
+    background-color: rgb(236, 2, 2);
+    color: white;
+    padding-left: 50px;
+    padding-right: 5px;
+  }
+
+

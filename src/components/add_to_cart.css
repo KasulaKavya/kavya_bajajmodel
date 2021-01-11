@@ -1,0 +1,78 @@
+/* thead of 1st */
+.th-y
+{
+    padding: 5px ;
+    color:rgb(15, 15, 15);
+    background-color: #ffc72e;
+    font-weight: normal;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* all columns */
+td
+{
+    padding:5px;
+}
+
+/* price column */
+td:nth-last-child(3)
+{
+    text-align: center;
+}
+
+/* price inputs */
+td input 
+{
+    width: 40%;
+    height: 30px;
+    padding:5px;
+}
+
+/* image info */
+.cart-info
+{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+
+/* photos */
+td img
+{
+    width:150px;
+    height:150px;
+    margin-right:10px;
+}
+
+/* 2nd table 2nd td */
+.text-right
+{
+    text-align: end;
+}
+
+/* icon */
+.icon
+{
+    font-size: 18px;
+}
+
+/* 2nd table 2nd tr */
+.tr-top 
+{
+    border-top:2px solid rgb(177, 174, 174);
+    max-width:400px;
+    width:100%;
+}
+
+/* small txt */
+.txt-10
+{
+    font-size: 15px;
+    font-weight: 600px;
+    background-color: rgb(234, 250, 234);
+    color:rgb(4, 173, 4);
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
